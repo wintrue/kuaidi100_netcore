@@ -1,0 +1,12 @@
+C:\Users\wintrue\source\repos\kuaidi100\kuaidi100\bin\Release\net5.0\kuaidi100.deps.json
+C:\Users\wintrue\source\repos\kuaidi100\kuaidi100\bin\Release\net5.0\kuaidi100.dll
+C:\Users\wintrue\source\repos\kuaidi100\kuaidi100\bin\Release\net5.0\kuaidi100.pdb
+C:\Users\wintrue\source\repos\kuaidi100\kuaidi100\obj\Release\net5.0\kuaidi100.csproj.AssemblyReference.cache
+C:\Users\wintrue\source\repos\kuaidi100\kuaidi100\obj\Release\net5.0\kuaidi100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wintrue\source\repos\kuaidi100\kuaidi100\obj\Release\net5.0\kuaidi100.AssemblyInfoInputs.cache
+C:\Users\wintrue\source\repos\kuaidi100\kuaidi100\obj\Release\net5.0\kuaidi100.AssemblyInfo.cs
+C:\Users\wintrue\source\repos\kuaidi100\kuaidi100\obj\Release\net5.0\kuaidi100.csproj.CoreCompileInputs.cache
+C:\Users\wintrue\source\repos\kuaidi100\kuaidi100\obj\Release\net5.0\kuaidi100.dll
+C:\Users\wintrue\source\repos\kuaidi100\kuaidi100\obj\Release\net5.0\refint\kuaidi100.dll
+C:\Users\wintrue\source\repos\kuaidi100\kuaidi100\obj\Release\net5.0\kuaidi100.pdb
+C:\Users\wintrue\source\repos\kuaidi100\kuaidi100\obj\Release\net5.0\ref\kuaidi100.dll
